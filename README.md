@@ -1,6 +1,6 @@
 # Schulich Innovations and Recognition
 
-This is a conversion of a [PowerPoint presentation]() to various time-series charts.
+This is a conversion of a [PowerPoint presentation](https://github.com/mbdata/schulich_achievements/blob/master/data/Schulich%20Achievements%201988%20to%202014.pptx) to various time-series charts.
 The following work was done:
 
 1) The PPT file was scanned for information and converted to a comma separated file (https://github.com/mbdata/schulich_achievements/blob/master/data/schulich_achievements.csv)
